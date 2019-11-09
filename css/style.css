@@ -1,0 +1,23 @@
+.swiper-container {
+  width: 100%;
+  height: 100vh;
+
+}
+
+.swiper-slide {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  color: #fff;
+  font-size: 32px;
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
