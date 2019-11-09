@@ -1,0 +1,5 @@
+# .DS_Storeを無視する
+.DS_Store
+
+# .vscodeディレクトリを無視する
+.vscode/
